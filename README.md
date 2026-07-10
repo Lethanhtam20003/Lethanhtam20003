@@ -23,11 +23,17 @@ Tôi là một **Full-stack Developer** đam mê xây dựng các hệ thống w
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethanhtam20003&layout=compact&theme=radical)
 
 --- 
+
 ### 📊 Hoạt động trên GitHub
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Lethanhtam20003&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lethanhtam20003&theme=react-dark&hide_border=true" alt="Lê Thanh Tâm's Activity Graph" />
+</p>
+
+--- 
 
 ### 🚀 Dự án tiêu biểu
 
